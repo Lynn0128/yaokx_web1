@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="5929" started-at="2017-11-05T02:58:26Z" finished-at="2017-11-05T02:58:32Z">
+  <suite name="Default suite" duration-ms="5984" started-at="2017-11-05T09:14:37Z" finished-at="2017-11-05T09:14:43Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="5929" started-at="2017-11-05T02:58:26Z" finished-at="2017-11-05T02:58:32Z">
+    <test name="Default test" duration-ms="5984" started-at="2017-11-05T09:14:37Z" finished-at="2017-11-05T09:14:43Z">
       <class name="yaokx_web1.FirstTestNG">
-        <test-method status="PASS" signature="openChrome()[pri:0, instance:yaokx_web1.FirstTestNG@5e691263]" name="openChrome" is-config="true" duration-ms="3713" started-at="2017-11-05T10:58:26Z" finished-at="2017-11-05T10:58:30Z">
+        <test-method status="PASS" signature="openChrome()[pri:0, instance:yaokx_web1.FirstTestNG@5e691263]" name="openChrome" is-config="true" duration-ms="3921" started-at="2017-11-05T17:14:37Z" finished-at="2017-11-05T17:14:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openChrome -->
-        <test-method status="PASS" signature="testLogin()[pri:0, instance:yaokx_web1.FirstTestNG@5e691263]" name="testLogin" duration-ms="954" started-at="2017-11-05T10:58:30Z" finished-at="2017-11-05T10:58:31Z">
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:yaokx_web1.FirstTestNG@5e691263]" name="testLogin" duration-ms="849" started-at="2017-11-05T17:14:41Z" finished-at="2017-11-05T17:14:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin -->
-        <test-method status="PASS" signature="quitChrome()[pri:0, instance:yaokx_web1.FirstTestNG@5e691263]" name="quitChrome" is-config="true" duration-ms="1243" started-at="2017-11-05T10:58:31Z" finished-at="2017-11-05T10:58:32Z">
+        <test-method status="PASS" signature="quitChrome()[pri:0, instance:yaokx_web1.FirstTestNG@5e691263]" name="quitChrome" is-config="true" duration-ms="1201" started-at="2017-11-05T17:14:41Z" finished-at="2017-11-05T17:14:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitChrome -->

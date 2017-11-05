@@ -12,7 +12,7 @@ public class test_selenium{
 		
 		Thread.sleep(2000);
 		
-		driver.get("http://127.0.0.1:8080/yaokx_web1/MyHtml.html");
+		driver.get("http://127.0.0.1:8081/yaokx_web1/MyHtml.html");
 		
 		Thread.sleep(2000);
 		

@@ -21,7 +21,7 @@ public class FirstTestNG {
 		System.setProperty("webdriver.chrome.driver",
 				"C:/software/selenium/chromedriver.exe");
 		driver = new ChromeDriver();
-		driver.get("http://127.0.0.1:8080/yaokx_web1/MyHtml.html");
+		driver.get("http://127.0.0.1:8081/yaokx_web1/MyHtml.html");
 	}
 
 	@AfterClass
